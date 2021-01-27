@@ -1,0 +1,27 @@
+{% for unit in site.units %}
+      <div class="container">
+        <div class="row">
+          <div class="col-4">
+            <img src="{{ unit.image_path }}" class="img-thumbnail" width="50%" height="50%">
+          </div>
+          <div class="col-8">
+            <div class="row">
+              <div class="col-12">
+                <a href="{{ unit.url }}"><h1>{{ unit.title }}</h1></a>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-12">
+                <p>{{ unit.dates }}</p>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-12">
+                <p>{{ unit.intro }}</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <hr/>
+    {% endfor %}
