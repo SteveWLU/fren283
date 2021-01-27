@@ -5,8 +5,6 @@ url: /units/programme
 image_path: 
 ---
 
-# Emploi du temps
-
 ### le 19 janvier - L’histoire des idées
 * Introduction au cours, but et méthode, la périodisation de l’histoire
 
