@@ -5,13 +5,13 @@ url: /units/programme
 image_path: 
 ---
 
-### le 19 janvier - L’histoire des idées
+# le 19 janvier - L’histoire des idées
 * Introduction au cours, but et méthode, la périodisation de l’histoire
 
 ### Devoirs
  * Pline l’Ancien et Brunetto Latini
  
-### le 21 janvier - L’héritage gréco-romain 
+# le 21 janvier - L’héritage gréco-romain 
 * La France, le français - une très brève histoire
 * Aristotélisme et la scolastique 
 
@@ -22,19 +22,32 @@ image_path:
 
 ***
 
-### le 26 janvier - À la cour de François I
-* Le château de Fontainebleau
-* Premières codifications de la langue française
-* Du Bellay
-* La formation de l’Académie française
-* L’activité de l’Académie française aujourd’hui
+# le 26 janvier - À la cour de François I
+
 
 ### Devoirs
 * Montaigne, “Des cannibales”
 
-### le 28 janvier  - Rabelais et Montaigne
-* Éducation humaniste
-*  Les premières explorations du monde; les français des les Amériques 
+# le 28 janvier  - Rabelais et Montaigne
+
+Lisez:
+[Michel de Montaigne, *Essais*, Livre I.31, "Des cannibales"](https://wlu.box.com/s/dhgzxsoj5q74z3u8xr7c6ahusapjtokj)
+
+Voici quelques questions et notes pour vous guider pendant votre lecture :
+
+Tout d'abord, notez l'emploi de "je", qui chez Montaigne marque un moment important dans l'histoire de la philosophie. Pour nous il n'y a rien de surprenant de partager nos propres expériences et même de les publier et les faire lire aux autres. Pour les lectures de Montaigne, deux volumes d'essais sur ses propres réflexions et expériences dans le monde auraient été bien remarquables.  
+
+À votre avis pourquoi est-ce que cette qualité de l'écriture de Montaigne provoquait l'étonnement chez ses contemporains ? Pensez au cours aujourd'hui où on a discuté du changement dans l'histoire de l'art quand les artistes de la Renaissance, inspirés par les italiens, commencent à peindre des portraits des individus célèbres et des tableaux d'objets que l'on trouve autour de soi : les fruits, les paysages, les animaux, les villes... Comment est-ce que les *Essais* de Montaigne et la vague des portraits s'emboîtent parfaitement ? [En voici un exemple célèbre](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring#/media/File:Meisje_met_de_parel.jpg)  
+
+Dans cet essai de Montaigne on se trouve en face à une société en plein changement après les 'découvertes' remarquables de Christophe Colomb. À partir de l'essai de Montaigne, qu'est-ce que vous comprenez de l'ampleur, l'impact, et les réactions au Nouveau Monde en France ? Montaigne prend un point de vue critique par rapport à ses compatriotes. Essayez de résumer en quelques mots le point de vue de Montaigne. 
+
+Dans cet essai de Montaigne est-ce que vous voyez des liens avec nos société contemporaines ? Est-ce que les leçons de Montaigne sont toujours valables pour nous aujourd'hui?  
+
+Prenez des notes pendant que vous lisez et notez vos pensées et réactions aux questions ci-dessus. Je ne ramasserai pas vos notes, mais elles comptent pour la préparation à la discussion en classe. 
+
+Si vous souhaitez avoir un regard un peu plus approfondi sur Montaigne, ses *Essais*, et le contexte historique, le document ci-dessous est très utile!
+
+[Introduction à Michel de Montaigne](https://wlu.box.com/s/5ayzwmj1mdvd5xoznxqhryyye5pz2kbm)
 
 ### Devoirs
 * Vidéo et fiche sur [l’Édit de Nantes et sa révocation](https://www.youtube.com/watch?v=u4e4M1Y-AU0)

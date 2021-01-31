@@ -17,32 +17,78 @@
       h2 {
         font-style: italic;
       }
-      h2, h4 {
+
+      h2, h3 {
         color: teal;
+      }
+
+      h4 {
+        color: #78C0A8;
+      }
+
+      .container, .row {
+        margin-top: 4em;
+      }
+
+      @import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic);
+      blockquote{
+        font-size: 1em;
+        width:100%;
+        margin:50px auto;
+        font-family: Open Sans;
+        font-style: italic;
+        color: #555555;
+        padding:1.2em 30px 1.2em 75px;
+        border-left:8px solid #78C0A8 ;
+        line-height:1.6;
+        position: relative;
+        background:#EDEDED;
+      }
+
+      blockquote::before{
+        font-family:Arial;
+        content: "\003F";
+        color:#78C0A8;
+        font-size:4em;
+        position: absolute;
+        left: 10px;
+        top:-10px;
+      }
+
+      blockquote::after{
+        content: '';
+      }
+
+      blockquote span{
+        display:block;
+        color:#333333;
+        font-style: normal;
+        font-weight: lighter;
+        margin-top:1em;
       }
     </style>
   </head>
 <body>
 {% include navbar.html %}
 
-<div class="container">
-  <div class="row">
-    <div class="col-12">
-      <h1>{{ page.author }}</h1>
-      <h2>{{ page.title }}</h2>
-      <p class="text-muted">{{ page.section }}</p>
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h1>{{ page.author }}, <em>{{ page.title }}</em></h1>
+        <p class="text-muted">{{ page.section }} (<a href="{ page.source }}" style="color:#78C0A8;">Source)</a></p>
+        <hr>
+      </div>
     </div>
 
-    <div class="col-2"></div>
-    <div class="col-8">
-        <hr>
-        <p class="lead" style="font-style: italic;">{{ page.intro }}</p>
-        <hr>
-        <p>{{ content }}</p>
-        <img>{{ page.image }}</img>
+    <div class="row">
+      <div class="col-1"></div>
+      <div class="col-10"><p>{{ content }} <br><span style=
+        "justify-content: center; font-size: x-large">&#10087;</span></p></div>
+      <div class="col-1"></div>
     </div>
-    <div class="col-2"></div>
-</div>
+
+    </div>
+  </div>
 </body>
 </html>
 
