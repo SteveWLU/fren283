@@ -1,0 +1,19 @@
+h1 {
+    font-family: sans-serif;
+}
+
+.display-2 {
+    font-size: calc(1.525rem + 3.3vw);
+    font-variant: small-caps;
+  }
+
+@media (min-width: 1200px) {
+.display-2 {
+    font-size: 4rem;
+  }
+}
+
+a {
+    color: tomato;
+    text-decoration: none;
+}
