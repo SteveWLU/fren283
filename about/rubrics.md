@@ -1,7 +1,6 @@
 ---
 title: Rubrics
 layout: about
-permalink: about/rubrics
 ---
 
-Rubrics go here.
+Rubrics will soon be posted here.
