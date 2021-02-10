@@ -2,18 +2,18 @@ toc:
   - title: Course Info
     subfolderitems:
       - page: Syllabus
-        url: ../about/syllabus.html
+        url: about/syllabus.html
       - page: Rubrics
-        url: ../about/rubrics.html
+        url: about/rubrics.html
   - title: Emploi du temps
     subfolderitems:
       - page: Dates importantes
-        url: ../about/dates.html
+        url: about/dates.html
       - page: Emploi du temps
-        url: ../about/programme.html
+        url: about/programme.html
   - title: Textes
     subfolderitems:
       - page: Montaigne
-        url: ../texts/montaigne_essais-1.31-cannibales.html
+        url: texts/montaigne_essais-1.31-cannibales.html
       - page: Montesquieu
-        url: ../texts/montesquieu_esprit-des-lois.html
+        url: texts/montesquieu_esprit-des-lois.html
