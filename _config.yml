@@ -17,8 +17,8 @@ title: FREN 293 - Histoire des idées
 email: mccormicks@wlu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Course site for French 283
-baseurl: "" # the subpath of your site, e.g. /blog
-url: https://stevewlu.github.io/fren283 # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /fren283 # the subpath of your site, e.g. /blog
+url: https://stevewlu.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username: SteveWLU
 
