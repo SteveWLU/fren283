@@ -3,34 +3,37 @@ title: Emploi du temps
 layout: about
 ---
 
-# le 19 janvier - L’histoire des idées
+## le 19 janvier - L’histoire des idées
 * Introduction au cours, but et méthode, la périodisation de l’histoire
 
-### Devoirs
- * Pline l’Ancien et Brunetto Latini
+#### Devoirs
+ * Pline l’Ancien et Brunetto Latini  
+
 
 ***
 
-# le 21 janvier - L’héritage gréco-romain 
+## le 21 janvier - L’héritage gréco-romain 
 * La France, le français - une très brève histoire
 * Aristotélisme et la scolastique 
 
-### Devoirs
+#### Devoirs
 * Du Bellay, Ronsard, Louise Labé
 * “Le genre le plus noble”
-* Reportage et fiche
+* Reportage et fiche  
+
 
 ***
 
-# le 26 janvier - À la cour de François I
+## le 26 janvier - À la cour de François I
 * La France pendant la Renaissance; l'Humanisme; les influences italiennes à la cours de François I
 
-### Devoirs
-* Montaigne, “Des cannibales”
+#### Devoirs
+* Montaigne, “Des cannibales”  
+
 
 ***
 
-# le 28 janvier  - Rabelais et Montaigne
+## le 28 janvier  - Rabelais et Montaigne
 
 Lisez:
 [Michel de Montaigne, *Essais*, Livre I.31, "Des cannibales"](https://wlu.box.com/s/dhgzxsoj5q74z3u8xr7c6ahusapjtokj)
@@ -51,27 +54,30 @@ Si vous souhaitez avoir un regard un peu plus approfondi sur Montaigne, ses *Ess
 
 [Introduction à Michel de Montaigne](https://wlu.box.com/s/5ayzwmj1mdvd5xoznxqhryyye5pz2kbm)
 
-### Devoirs
-* Vidéo et fiche sur [l’Édit de Nantes et sa révocation](https://www.youtube.com/watch?v=u4e4M1Y-AU0)
+#### Devoirs
+* Vidéo et fiche sur [l’Édit de Nantes et sa révocation](https://www.youtube.com/watch?v=u4e4M1Y-AU0)  
+
 
 ***
 
-# le 2 février - Henri IV et l’Édit de Nantes
+## le 2 février - Henri IV et l’Édit de Nantes
 * Le protestantisme, l'Édit de Nantes et sa révocation dans l'Édit d'Alès, les violences contre les protestants, les Huguenots en Amérique du Nord
 
-### Devoirs
-* * Montesquieu, [*De l’esprit des lois*, Tome 1, Livre II, Chapitres 1, 2, 3](https://stevewlu.github.io/fren283/texts/montesquieu_esprit-des-lois.html)
+#### Devoirs
+* * Montesquieu, [*De l’esprit des lois*, Tome 1, Livre II, Chapitres 1, 2, 3](https://stevewlu.github.io/fren283/texts/montesquieu_esprit-des-lois.html)  
+
 
 ***
 
-# le 4 février - Le grand siècle
+## le 4 février - Le grand siècle
 * Montesquieu et les critiques de l'absolutisme; Louis XIV, le Roi Soleil
 
-### Devoirs
-*  Denis Diderot, l’Encyclopédie - Prospectus (lien à suivre)
+#### Devoirs
+*  Denis Diderot, l’Encyclopédie - Prospectus (lien à suivre)  
+
 
 ***
 
-# le 5 février 
+## le 5 février 
 **Réflection 1 à rendre avant minuit**
 

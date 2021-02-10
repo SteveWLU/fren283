@@ -2,6 +2,14 @@ h1 {
     font-family: sans-serif;
 }
 
+h2, h3 {
+  color: teal;
+}
+
+h4 {
+  color: #78C0A8;
+}
+
 .display-2 {
     font-size: calc(1.525rem + 3.3vw);
     font-variant: small-caps;

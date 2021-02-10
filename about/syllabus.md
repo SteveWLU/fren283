@@ -5,10 +5,6 @@ layout: about
 permalink: about/syllabus
 ---
 
-**Stephen P. McCormick** (he/him/his)
-mccormicks@wlu.edu | Tucker 324
-Heures de bureau : mardi de 13h30 à 14h30; mercredi de 11h00 à 12h00; sur rendez-vous
-
 ## Descriptif du cours 
 This course retraces the evolution of thought in France across centuries through the examination of intellectual, cultural and artistic movements. Readings, discussions and papers in French for further development of communication skills (HU).
 
@@ -24,10 +20,10 @@ The Department of Romance Languages at Washington and Lee aims to foster in its 
 6. carry out critical investigation.
 
 ## La Note
-6 Commentaires de film (2  pages) ---------- 30% 
-2 Présentations orales -------------------------- 20%
-2 Rédactions (4-5 pages) ---------------------- 20%
-Discussions en classe -------------------------- 15 %
+6 Commentaires de film (2  pages) ---------- 30%  
+2 Présentations orales -------------------------- 20%  
+2 Rédactions (4-5 pages) ---------------------- 20%  
+Discussions en classe -------------------------- 15%  
 Portfolio Web Beaux-Arts -------------------- 15%
 
 ## W&L Honor System

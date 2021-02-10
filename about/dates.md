@@ -3,7 +3,7 @@ layout: about
 permalink: about/dates
 ---
 
-# Dates Importantes  
+## Dates Importantes  
 
 **4 réflexions, 2 présentations, 2 examens oraux, et rédaction finale**  
 
