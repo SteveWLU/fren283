@@ -19,7 +19,7 @@ The Department of Romance Languages at Washington and Lee aims to foster in its 
 5. read and analyze literature written in the target language(s) of their major;
 6. carry out critical investigation.
 
-## La Note
+## La note
 6 Commentaires de film (2  pages) ---------- 30%  
 2 Présentations orales -------------------------- 20%  
 2 Rédactions (4-5 pages) ---------------------- 20%  
