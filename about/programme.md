@@ -73,11 +73,42 @@ Si vous souhaitez avoir un regard un peu plus approfondi sur Montaigne, ses *Ess
 * Montesquieu et les critiques de l'absolutisme; Louis XIV, le Roi Soleil
 
 #### Devoirs
-*  Denis Diderot, l’Encyclopédie - Prospectus (lien à suivre)  
+* [LION (2 paragraphes)](http://artflsrv02.uchicago.edu/cgi-bin/philologic/getobject.pl?c.8:1641.encyclopedie0416.5664899)
 
+* [HOMME (8:256 - jusqu'à 8:258)](http://artflsrv02.uchicago.edu/cgi-bin/philologic/getobject.pl?c.7:1044.encyclopedie0416.2661182)
+
+Dans ces définitions de l'homme et du lion, quelles différences voyez-vous entre Diderot et Pline l'Ancien et Brunetto Latini de la première semaine ?
+
+La définition de l'homme est importante vis-à-vis la Révolution, les nouvelles idées sur les droits de l'homme et la fin de la monarchie. Est-ce que cette définition aide à repenser ce que c'est d'être un.e citoyen.ne? 
 
 ***
 
 ## le 5 février 
 **Réflection 1 à rendre avant minuit**
+
+***
+
+## le 9 février - L'enquête scientifique dans le siècle des Lumières
+* Denis Diderot et l'*Encyclopédie*; Montesquieu (suite)
+
+***
+
+## le 11 février - Présentations
+* Présentations sur : l'Empire colonial français (Anna, Gabby, Silvana); La mission civilisatrice (Céline, Sharon); 
+
+***
+
+## le 16 février - Présentations
+* Présentations sur : Le code noir (Tess, Nayongi); La traite triparte (Alex, Ann Douglas); La Nouvelle France (Collin, Caroline); Arthur de Gobineau & Ernest Renan (Mackenzie, Simona); La loi no. 2005-158 (Audrey, Paris)
+
+### Devoirs
+* Lisez et complétez les questions pour [Jean-Jacques Rousseau, "Essai sur les origines de l'inégalité parmi les hommes"](https://stevewlu.github.io/fren283/texts/rousseau_inégalité.html)
+
+*** 
+
+## le 18 février - Rousseau et les origines de l'inégalité
+* Rousseau et sa philosophie; les droits de l'homme et les notions de l'inégalité; l'inégalité dans le contexte de l'Empire colonial français
+
+### Devoirs
+* À suivre
 
