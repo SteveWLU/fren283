@@ -29,3 +29,7 @@ a {
     color: rgb(25, 126, 104);
     text-decoration: none;
 }
+
+b, strong {
+  font-weight: bolder;
+  color: tomato;
