@@ -6,6 +6,7 @@ source: https://wlu.box.com/s/i07ufqtom6wzffmww4smexaktohfkp0q
 layout: text
 ---
 
+
 [*Dans la première partie du* Discours, *Rousseau essaie de se représenter ce qu'a dû être l'homme à l'état de nature. Il le voit ni bon ni méchant, sans vices ni vertus, mais ayant le pouvoir de développer ses facultés, ce qui le différencie des animaux. C'est une série de hasards qui a peu à peu perfectionné sa raison et l'a rendu méchant en le rendant so­ciable.*  
 *Cet enchainement de hasards se développe dans la seconde partie que nous donnons ici.*] 
 
