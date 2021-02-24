@@ -5,12 +5,10 @@ layout: text
 source: [Émile Zola, “J’accuse...”](https://fr.m.wikisource.org/wiki/J’accuse…!)
 ---
 
-# Émile Zola, "J'accuse..."
+#### Date: 13 janvier 1898
 
-Date: 13 janvier 1898
-
-# LETTRE À M. FÉLIX FAURE
-**Président de la République**
+### LETTRE À M. FÉLIX FAURE
+*Président de la République*
 
 Monsieur le Président,  
 
