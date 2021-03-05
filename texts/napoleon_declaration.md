@@ -5,12 +5,7 @@ layout: text
 source: [Napoléon Bonaparte](https://fr.wikisource.org/wiki/D%C3%A9claration_du_g%C3%A9n%C3%A9ral_Bonaparte_au_peuple_%C3%A9gyptien)
 ---
 
-# Déclaration du général Bonaparte au peuple égyptien
-#fren283/assignments
-
-
-### Napoléon Bonaparte
-### 1798
+#### 1798
 
 Au nom du Dieu clément et miséricordieux !  
 
