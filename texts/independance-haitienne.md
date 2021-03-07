@@ -15,7 +15,7 @@ Dessalines et les chefs de l'Armée indigène peuvent proclamer, le 1er janvier 
 
 Source : The National Archives Website, http://nationalarchives.gov.uk/ Catalogue Reference:co/137/111.
 
-
+***
 
 ### Liberté ou la mort  
 ### Armée indigène  
@@ -41,43 +41,47 @@ Dessalines, *général en chef* ; Christophe, Pétion, Clerveaux, Geffrard, Vern
 
 Citoyens,
 
-Ce n'est pas assez d'avoir expulsé de votre pays les barbares qui l'ont ensanglanté depuis deux siècles ; ce n'est pas assez d'avoir mis un frein aux factions toujours renaissantes qui se jouaient tour à tour du fantôme de liberté que la France exposait à vos yeux ; il faut, par un dernier acte d'autorité nationale, assurer à jamais l'empire de la liberté dans le pays qui nous a vu naître ; il faut ravir au gouvernement inhumain, qui tient depuis long-tems nos esprits dans la torpeur la plus humiliante, tout espoir de nous réasservir ; il faut enfin vivre indépendans ou mourir.
+Ce n'est pas assez d'avoir expulsé de votre pays les barbares qui l'ont ensanglanté depuis deux siècles ; ce n'est pas assez d'avoir mis un frein aux factions toujours renaissantes qui se jouaient tour à tour du fantôme de liberté que la France exposait à vos yeux ; il faut, par un dernier acte d'autorité nationale, assurer à jamais l'empire de la liberté dans le pays qui nous a vu naître ; il faut ravir au gouvernement inhumain, qui tient depuis long-tems nos esprits dans la torpeur la plus humiliante, tout espoir de nous réasservir ; il faut enfin vivre indépendans ou mourir.  
 
-Indépendance ou la mort... Que ces mots sacrés nous rallient, et qu'ils soient le signal des combats et de notre réunion.
+Indépendance ou la mort... Que ces mots sacrés nous rallient, et qu'ils soient le signal des combats et de notre réunion.  
 
-Citoyens, mes compatriotes, j'ai rassemblé en ce jour solennel ces militaires courageux, qui, à la veille de recueillir les derniers soupirs de la liberté, ont prodigué leur sang pour la sauver ; ces généraux qui ont guidé vos efforts contre la tyrannie, n'ont point encore assez fait pour votre bonheur... Le nom français lugubre encore nos contrées.
+Citoyens, mes compatriotes, j'ai rassemblé en ce jour solennel ces militaires courageux, qui, à la veille de recueillir les derniers soupirs de la liberté, ont prodigué leur sang pour la sauver ; ces généraux qui ont guidé vos efforts contre la tyrannie, n'ont point encore assez fait pour votre bonheur... Le nom français lugubre encore nos contrées.  
 
-Tout y retrace le souvenir des cruautés de ce peuple barbare ; nos lois, nos mœurs, nos villes, tout porte encore l'empreinte française ; que dis-je, il existe des Français dans notre île, et vous vous croyez libres et indépendans de cette république qui a combattu toutes les nations, il est vrai, mais qui n'a jamais vaincu celles qui ont voulu être libres.
+Tout y retrace le souvenir des cruautés de ce peuple barbare ; nos lois, nos mœurs, nos villes, tout porte encore l'empreinte française ; que dis-je, il existe des Français dans notre île, et vous vous croyez libres et indépendans de cette république qui a combattu toutes les nations, il est vrai, mais qui n'a jamais vaincu celles qui ont voulu être libres.  
 
-Eh quoi ! victimes pendant quatorze ans de notre crédulité et de notre indulgence ; vaincus, non par des armées françaises, mais par la piteuse éloquence des proclamations de leurs agens ; quand nous lasserons-nous de respirer le même air qu'eux ? Qu'avons-nous de commun avec ce peuple bourreau ? Sa cruauté comparée a notre patiente modération ; sa couleur à la nôtre ; l'étendue des mers qui nous séparent, notre climat vengeur, nous disent assez qu'ils ne sont pas nos frères, qu'ils ne le deviendront jamais et que, s'ils trouvent un asile parmi nous, ils seront encore les machinateurs de nos troubles et de nos divisions.
+Eh quoi ! victimes pendant quatorze ans de notre crédulité et de notre indulgence ; vaincus, non par des armées françaises, mais par la piteuse éloquence des proclamations de leurs agens ; quand nous lasserons-nous de respirer le même air qu'eux ? Qu'avons-nous de commun avec ce peuple bourreau ? Sa cruauté comparée a notre patiente modération ; sa couleur à la nôtre ; l'étendue des mers qui nous séparent, notre climat vengeur, nous disent assez qu'ils ne sont pas nos frères, qu'ils ne le deviendront jamais et que, s'ils trouvent un asile parmi nous, ils seront encore les machinateurs de nos troubles et de nos divisions.  
 
-Citoyens indigènes, hommes, femmes, filles et enfans, portez les regards sur toutes les parties de cette île ; cherchez-y, vous vos épouses, vous vos maris, vous vos frères, vous vos sœurs ; que dis-je, cherchez-y vos enfans, vos enfants à la mamelle ! Que sont-ils devenus... Je frémis de le dire... la proie de ces vautours. Au lieu de ces victimes intéressantes, votre œil consterné n'aperçoit que leurs assassins ; que les tigres dégouttant encore de leur sang, et dont l'affreuse présence vous reproche votre insensibilité et votre lenteur à les venger. Qu'attendez-vous pour apaiser leurs mânes, songez que vous avez voulu que vos restes reposassent auprès de ceux de vos pères, quand vous avez chassé la tyrannie ; descendrez-vous dans leurs tombes sans les avoir vengés ? Non, leurs ossements repousseraient les vôtres.
+Citoyens indigènes, hommes, femmes, filles et enfans, portez les regards sur toutes les parties de cette île ; cherchez-y, vous vos épouses, vous vos maris, vous vos frères, vous vos sœurs ; que dis-je, cherchez-y vos enfans, vos enfants à la mamelle ! Que sont-ils devenus... Je frémis de le dire... la proie de ces vautours. Au lieu de ces victimes intéressantes, votre œil consterné n'aperçoit que leurs assassins ; que les tigres dégouttant encore de leur sang, et dont l'affreuse présence vous reproche votre insensibilité et votre lenteur à les venger. Qu'attendez-vous pour apaiser leurs mânes, songez que vous avez voulu que vos restes reposassent auprès de ceux de vos pères, quand vous avez chassé la tyrannie ; descendrez-vous dans leurs tombes sans les avoir vengés ? Non, leurs ossements repousseraient les vôtres.  
 
-Et vous, hommes précieux, généraux intrépides, qui insensibles à vos propres malheurs, avez ressuscité la liberté en lui prodiguant tout votre sang ; sachez que vous n'avez rien fait, si vous ne donnez aux nations un exemple terrible, mais juste, de la vengeance que doit exercer un peuple fier d'avoir recouvré sa liberté, et jaloux de la maintenir ; effrayons tous ceux qui oseraient tenter de nous la ravir encore : commençons par les Français... Qu'ils frémissent en abordant nos côtes, sinon par le souvenir des cruautés qu'ils y ont exercées, au moins par la résolution terrible que nous allons prendre de dévouer à la mort quiconque, né français, souillerait de son pied sacrilège le territoire de la liberté.
+Et vous, hommes précieux, généraux intrépides, qui insensibles à vos propres malheurs, avez ressuscité la liberté en lui prodiguant tout votre sang ; sachez que vous n'avez rien fait, si vous ne donnez aux nations un exemple terrible, mais juste, de la vengeance que doit exercer un peuple fier d'avoir recouvré sa liberté, et jaloux de la maintenir ; effrayons tous ceux qui oseraient tenter de nous la ravir encore : commençons par les Français... Qu'ils frémissent en abordant nos côtes, sinon par le souvenir des cruautés qu'ils y ont exercées, au moins par la résolution terrible que nous allons prendre de dévouer à la mort quiconque, né français, souillerait de son pied sacrilège le territoire de la liberté.  
 
-Nous avons osé être libres, osons l'être par nous-mêmes et pour nous-mêmes ; imitons l'enfant qui grandit : son propre poids brise la lisière qui lui devient inutile et l'entrave dans sa marche. Quel peuple a combattu pour nous ! Quel peuple voudrait recueillir les fruits de nos travaux ? Et quelle déshonorante absurdité que de vaincre pour être esclaves. Esclaves !... Laissons aux Français cette épithète qualificative ; ils ont vaincu pour cesser d'être libres.
+Nous avons osé être libres, osons l'être par nous-mêmes et pour nous-mêmes ; imitons l'enfant qui grandit : son propre poids brise la lisière qui lui devient inutile et l'entrave dans sa marche. Quel peuple a combattu pour nous ! Quel peuple voudrait recueillir les fruits de nos travaux ? Et quelle déshonorante absurdité que de vaincre pour être esclaves. Esclaves !... Laissons aux Français cette épithète qualificative ; ils ont vaincu pour cesser d'être libres.  
 
-Marchons sur d'autres traces ; imitons ces peuples qui, portant leur sollicitude jusques sur l'avenir, et appréhendant de laisser à la postérité l'exemple de la lâcheté, ont préféré être exterminés que rayés du nombre des peuples libres.
+Marchons sur d'autres traces ; imitons ces peuples qui, portant leur sollicitude jusques sur l'avenir, et appréhendant de laisser à la postérité l'exemple de la lâcheté, ont préféré être exterminés que rayés du nombre des peuples libres.  
 
-Gardons-nous cependant que l'esprit de prosélytisme ne détruise notre ouvrage ; laissons en paix respirer nos voisins, qu'ils vivent paisiblement sous l'empire des lois qu'ils se sont faites, et n'allons pas, boutes-feu révolutionnaires, nous érigeant en législateurs des Antilles, faire consister notre gloire à troubler le repos des Isles qui nous avoisinent ; elles n'ont point, comme celles que nous habitons, été arrosées du sang innocent de leurs habitans ; elles n'ont point de vengeance à exercer contre l'autorité qui les protège.
+Gardons-nous cependant que l'esprit de prosélytisme ne détruise notre ouvrage ; laissons en paix respirer nos voisins, qu'ils vivent paisiblement sous l'empire des lois qu'ils se sont faites, et n'allons pas, boutes-feu révolutionnaires, nous érigeant en législateurs des Antilles, faire consister notre gloire à troubler le repos des Isles qui nous avoisinent ; elles n'ont point, comme celles que nous habitons, été arrosées du sang innocent de leurs habitans ; elles n'ont point de vengeance à exercer contre l'autorité qui les protège.  
 
-Heureuses de n'avoir jamais connu les fléaux qui nous ont détruit, elles ne peuvent que faire des vœux pour notre prospérité. 
-Paix à nos voisins ! mais anathème au nom français ! haine éternelle à la France ! voilà notre cri.
-Indigènes d'Haïti ! mon heureuse destinée me réservait à être un jour la sentinelle qui dût veiller à la garde de l'idole à laquelle vous sacrifiez : j'ai veillé, combattu, quelquefois seul ; et, si j'ai été assez heureux pour remettre en vos mains le dépôt sacré que vous m'avez confié, songez que c'est à vous maintenant à le conserver. En combattant pour votre liberté, j'ai travaillé à mon propre bonheur. Avant de la consolider par des lois qui assurent votre libre individualité, vos chefs, que j'assemble ici, et moi-même, nous vous devons la dernière preuve de notre dévouement.
+Heureuses de n'avoir jamais connu les fléaux qui nous ont détruit, elles ne peuvent que faire des vœux pour notre prospérité.  
 
-Généraux, et vous chefs, réunis ici près de moi pour le bonheur de notre pays, le jour est arrivé, ce jour qui doit éterniser notre gloire, notre indépendance.
+Paix à nos voisins ! mais anathème au nom français ! haine éternelle à la France ! voilà notre cri.  
 
-S'il pouvait exister parmi vous un cœur tiède, qu'il s'éloigne et tremble de prononcer le serment qui doit nous unir.
+Indigènes d'Haïti ! mon heureuse destinée me réservait à être un jour la sentinelle qui dût veiller à la garde de l'idole à laquelle vous sacrifiez : j'ai veillé, combattu, quelquefois seul ; et, si j'ai été assez heureux pour remettre en vos mains le dépôt sacré que vous m'avez confié, songez que c'est à vous maintenant à le conserver. En combattant pour votre liberté, j'ai travaillé à mon propre bonheur. Avant de la consolider par des lois qui assurent votre libre individualité, vos chefs, que j'assemble ici, et moi-même, nous vous devons la dernière preuve de notre dévouement.  
 
-Jurons à l'univers entier, à la postérité, à nous-mêmes, de renoncer à jamais à la France, et de mourir plutôt que de vivre sous sa domination.
-De combattre jusqu'au dernier soupir pour l'indépendance de notre pays !
-Et toi, peuple trop long-tems infortuné, témoin du serment que nous prononçons, souviens-toi que c'est sur ta constance et ton courage que j'ai compté quand je me suis lancé dans la carrière de la liberté pour y combattre le despotisme et la tyrannie contre lesquels tu luttais depuis quatorze ans. Rappelle-toi que j'ai tout sacrifié pour voler à ta défense, parens, enfans, fortune, et que maintenant je ne suis riche que de ta liberté ; que mon nom est devenu en horreur à tous les peuples qui veulent l'esclavage, et que les despotes et les tyrans ne le prononcent qu'en maudissant le jour qui m'a vu naître ; et si jamais tu refusais ou recevais en murmurant les lois que le génie qui veille a tes destinées me dictera pour ton bonheur, tu mériterais le sort des peuples ingrats.
+Généraux, et vous chefs, réunis ici près de moi pour le bonheur de notre pays, le jour est arrivé, ce jour qui doit éterniser notre gloire, notre indépendance.  
 
-Mais loin de moi cette affreuse idée. Tu seras le soutien de la liberté que tu chéris, l'appui du chef qui te commande.
+S'il pouvait exister parmi vous un cœur tiède, qu'il s'éloigne et tremble de prononcer le serment qui doit nous unir.  
 
-Prête donc entre ses mains le serment de vivre libre et indépendant, et de préférer la mort à tout ce qui tendrait à te remettre sous le joug. Jure enfin de poursuivre à jamais les traîtres et les ennemis de ton indépendance.
+*Jurons à l'univers entier, à la postérité, à nous-mêmes, de renoncer à jamais à la France, et de mourir plutôt que de vivre sous sa domination.*  
 
-Fait au quartier général des Gonaïves, le 1er janvier mil huit cent quatre, l'An premier de l'indépendance. 
+*De combattre jusqu'au dernier soupir pour l'indépendance de notre pays !*  
+
+Et toi, peuple trop long-tems infortuné, témoin du serment que nous prononçons, souviens-toi que c'est sur ta constance et ton courage que j'ai compté quand je me suis lancé dans la carrière de la liberté pour y combattre le despotisme et la tyrannie contre lesquels tu luttais depuis quatorze ans. Rappelle-toi que j'ai tout sacrifié pour voler à ta défense, parens, enfans, fortune, et que maintenant je ne suis riche que de ta liberté ; que mon nom est devenu en horreur à tous les peuples qui veulent l'esclavage, et que les despotes et les tyrans ne le prononcent qu'en maudissant le jour qui m'a vu naître ; et si jamais tu refusais ou recevais en murmurant les lois que le génie qui veille a tes destinées me dictera pour ton bonheur, tu mériterais le sort des peuples ingrats.  
+
+Mais loin de moi cette affreuse idée. Tu seras le soutien de la liberté que tu chéris, l'appui du chef qui te commande.  
+
+Prête donc entre ses mains le serment de vivre libre et indépendant, et de préférer la mort à tout ce qui tendrait à te remettre sous le joug. Jure enfin de poursuivre à jamais les traîtres et les ennemis de ton indépendance.  
+
+*Fait au quartier général des Gonaïves, le 1er janvier mil huit cent quatre, l'An premier de l'indépendance.*  
 
 Signé : J. J. Dessalines
 
