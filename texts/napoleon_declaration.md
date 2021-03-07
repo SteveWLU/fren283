@@ -2,7 +2,7 @@
 title: "Déclaration au peuple égyptien"
 author: Napoléon Bonaparte
 layout: text
-source: [Napoléon Bonaparte](https://fr.wikisource.org/wiki/D%C3%A9claration_du_g%C3%A9n%C3%A9ral_Bonaparte_au_peuple_%C3%A9gyptien)
+source: https://fr.wikisource.org/wiki/D%C3%A9claration_du_g%C3%A9n%C3%A9ral_Bonaparte_au_peuple_%C3%A9gyptien
 ---
 
 #### 1798
