@@ -16,10 +16,12 @@ Dessalines et les chefs de l'Armée indigène peuvent proclamer, le 1er janvier 
 Source : [The National Archives Website](http://nationalarchives.gov.uk/) Catalogue Reference:co/137/111
 
 ***
-
-### Liberté ou la mort  
-### Armée indigène  
-
+  
+  
+### **Liberté ou la mort**  
+### **Armée indigène**  
+  
+  
 #### Gonaïves, le premier janvier 1804, An I de l'Indépendance  
 
 Aujourd'hui premier janvier dix huit cent quatre, le Général en chef de l'Armée indigène, accompagné des généraux, chefs de l'armée, convoqués à l'effet de prendre les mesures qui doivent tendre au bonheur du pays.  
