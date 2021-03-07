@@ -18,9 +18,8 @@ Source : The National Archives Website, http://nationalarchives.gov.uk/ Catalogu
 
 
 ### Liberté ou la mort  
-
 ### Armée indigène  
- 
+
 #### Gonaïves, le premier janvier 1804, An I de l'Indépendance  
 
 Aujourd'hui premier janvier dix huit cent quatre, le Général en chef de l'Armée indigène, accompagné des généraux, chefs de l'armée, convoqués à l'effet de prendre les mesures qui doivent tendre au bonheur du pays.  
