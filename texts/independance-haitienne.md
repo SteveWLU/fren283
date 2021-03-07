@@ -1,10 +1,10 @@
 ---
-title: "Acte de l'Indépendance de la République d'Haïti"
+title: Acte de l'Indépendance de la République d'Haïti
 source: https://mjp.univ-perp.fr/constit/ht1804.htm
 layout: text
 ---
 
-***Introduction: Acte d'indépendance.***  
+### Introduction: Acte d'indépendance
 
 L'[émancipation des esclaves](https://mjp.univ-perp.fr/constit/ht1793.htm)  de Saint-Domingue, insurgés depuis 1791, est proclamée le 29 août 1793, par le commissaire de la République Sonthonax, quelques mois avant que la Convention décrète l' [abolition générale de l'esclavage](https://mjp.univ-perp.fr/france/1794esclavage.htm)  dans les colonies françaises. Toussaint Louverture, l'un des chefs de l'insurrection, qui a été nommé général de brigade par la Convention, puis commandant en chef de la colonie le 15 mai 1797, chasse les Britanniques, rétablit l'ordre, puis se rend maître de la totalité de l'île par la conquête de la partie espagnole (janvier 1801). Il proclame alors une  [Constitution](https://mjp.univ-perp.fr/constit/ht1801.htm)  (8 juillet 1801), qui établit l'autonomie de Saint-Domingue au sein de la République française et le désigne gouverneur à vie.  
   
@@ -16,32 +16,40 @@ Source : The National Archives Website, http://nationalarchives.gov.uk/ Catalogu
 
 
 
-**Liberté ou la mort.**
-**Armée indigène**. 
-**Gonaïves, le premier janvier 1804, An I de l'Indépendance**
+### Liberté ou la mort  
+
+### Armée indigène  
+ 
+#### Gonaïves, le premier janvier 1804, An I de l'Indépendance  
+
 Aujourd'hui premier janvier dix huit cent quatre, 
 le Général en chef de l'Armée indigène, accompagné des généraux, chefs de l'armée, convoqués à l'effet de prendre les mesures qui doivent tendre au bonheur du pays :
 Après avoir fait connaître aux généraux assemblés ses véritables intentions d'assurer à jamais aux indigènes d'Haïti un gouvernement stable, objet de sa plus vive sollicitude : ce qu'il a fait à un discours qui tend à faire connaître aux puissances étrangères la résolution de rendre le pays indépendant, et de jouir d'une liberté consacrée par le sang du peuple de cette île ; et, après avoir recueilli les avis, a demandé que chacun des généraux assemblés prononçât le serment de renoncer à jamais à la France, de mourir plutôt que de vivre sous sa domination, et de combattre jusqu'au dernier soupir pour l'indépendance.
 Les généraux, pénétrés de ces principes sacrés, après avoir donné d'une voix unanime leur adhésion au projet bien manifesté d'indépendance, ont tous juré à la postérité, à l'univers entier, de renoncer à jamais à la France, et de mourir plutôt que de vivre sous sa domination.  
-**Dessalines,** 
-général en chef ; 
-**Christophe, Pétion, Clerveaux, Geffrard, Vernet, Gabart,** 
-généraux de division ; 
-**P . Romain, E. Gérin, F. Capois, Daut, Jean-Louis François, Férou, Cangé,** 
-**L. Bazelais, Magloire Ambroise, J. J. Herne, Toussaint Brave, Yayou,** 
-généraux de brigade ; 
-**Bonnet, F. Papalier, Morelly, Chevalier, Marion,** 
-adjudants-généraux ; 
-**Magny, Roux** 
-chefs de brigade ; 
-**Chareron, B. Loret, Quené, Macajoux, Dupuy, Carbonne, Diaquoi aîné, Raphaël, Malet, Derenoncourt,** 
-officiers de l'armée ; 
-**Et Boisrond Tonnerre,** 
-secrétaire.
 
-**Proclamation.**
-**Le général en Chef,**
-**Au Peuple d'Hayti.**
+**Dessalines,** général en chef ; 
+**Christophe, Pétion, Clerveaux, Geffrard, Vernet, Gabart,** généraux de division ;  
+
+**P . Romain, E. Gérin, F. Capois, Daut, Jean-Louis François, Férou, Cangé,**  
+
+**L. Bazelais, Magloire Ambroise, J. J. Herne, Toussaint Brave, Yayou,** généraux de brigade ;  
+
+**Bonnet, F. Papalier, Morelly, Chevalier, Marion,** adjudants-généraux ;  
+
+**Magny, Roux** chefs de brigade ;  
+
+**Chareron, B. Loret, Quené, Macajoux, Dupuy, Carbonne, Diaquoi aîné, Raphaël, Malet, Derenoncourt,** officiers de l'armée ;  
+
+**Et Boisrond Tonnerre,** secrétaire  
+
+***
+
+### Proclamation  
+
+#### Le général en Chef,  
+
+#### Au Peuple d'Haïti  
+
 Citoyens,
 
 Ce n'est pas assez d'avoir expulsé de votre pays les barbares qui l'ont ensanglanté depuis deux siècles ; ce n'est pas assez d'avoir mis un frein aux factions toujours renaissantes qui se jouaient tour à tour du fantôme de liberté que la France exposait à vos yeux ; il faut, par un dernier acte d'autorité nationale, assurer à jamais l'empire de la liberté dans le pays qui nous a vu naître ; il faut ravir au gouvernement inhumain, qui tient depuis long-tems nos esprits dans la torpeur la plus humiliante, tout espoir de nous réasservir ; il faut enfin vivre indépendans ou mourir.
