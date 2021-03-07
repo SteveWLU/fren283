@@ -18,8 +18,8 @@ Source : [The National Archives Website](http://nationalarchives.gov.uk/) Catalo
 ***
   
   
-### **Liberté ou la mort**  
-### **Armée indigène**  
+### __Liberté ou la mort__  
+### __Armée indigène__  
   
   
 #### Gonaïves, le premier janvier 1804, An I de l'Indépendance  
