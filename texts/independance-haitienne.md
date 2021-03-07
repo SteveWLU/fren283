@@ -33,8 +33,6 @@ Dessalines, *général en chef* ; Christophe, Pétion, Clerveaux, Geffrard, Vern
 
 ***
 
-### Proclamation  
-
 #### Le général en Chef,  
 
 #### Au Peuple d'Haïti  
@@ -85,10 +83,15 @@ Prête donc entre ses mains le serment de vivre libre et indépendant, et de pr�
 
 Signé : J. J. Dessalines
 
+***
 
-**Au nom du peuple d'Haïti.**
-Nous, généraux et chefs des armées de l'île d'Hayti, pénétrés de reconnaissance des bienfaits que nous avons éprouvés du général en chef Jean -Jacques Dessalines, le protecteur de la liberté dont jouit le peuple.
+### Au nom du peuple d'Haïti  
 
-Au nom de la Liberté, au nom de l'Indépendance, au nom du Peuple qu'il a rendu heureux, nous le proclamons Gouverneur général, à vie, d'Hayti. Nous jurons d'obéir aveuglément aux lois émanées de son autorité, la seule que nous reconnaîtrons. Nous lui donnons le droit de faire la paix, la guerre et de nommer son successeur.
-Fait au quartier-général des Gonaïves, ce premier jour de janvier mil huit cent quatre et le premier jour de l'Indépendance.
-Signé : Gabart, Paul Romain, P.-J. Herne, Capois, Christophe, Geffrard, E. Gérin, Vernet, Pétion, Clerveaux, Jean-Louis François, Cangé, Férou, Yayou, Toussaint Brave , 
+Nous, généraux et chefs des armées de l'île d'Hayti, pénétrés de reconnaissance des bienfaits que nous avons éprouvés du général en chef Jean -Jacques Dessalines, le protecteur de la liberté dont jouit le peuple.  
+
+Au nom de la Liberté, au nom de l'Indépendance, au nom du Peuple qu'il a rendu heureux, nous le proclamons Gouverneur général, à vie, d'Hayti. Nous jurons d'obéir aveuglément aux lois émanées de son autorité, la seule que nous reconnaîtrons. Nous lui donnons le droit de faire la paix, la guerre et de nommer son successeur.  
+
+Fait au quartier-général des Gonaïves, ce premier jour de janvier mil huit cent quatre et le premier jour de l'Indépendance.  
+
+#### Signés,
+Gabart, Paul Romain, P.-J. Herne, Capois, Christophe, Geffrard, E. Gérin, Vernet, Pétion, Clerveaux, Jean-Louis François, Cangé, Férou, Yayou, Toussaint Brave, Magloire Ambroise, Louis Bazelais. 
