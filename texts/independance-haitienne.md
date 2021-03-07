@@ -1,4 +1,5 @@
 ---
+author: Le Général en Chef, au Peuple d'Haïti
 title: Acte de l'Indépendance de la République d'Haïti
 source: https://mjp.univ-perp.fr/constit/ht1804.htm
 layout: text
@@ -22,25 +23,14 @@ Source : The National Archives Website, http://nationalarchives.gov.uk/ Catalogu
  
 #### Gonaïves, le premier janvier 1804, An I de l'Indépendance  
 
-Aujourd'hui premier janvier dix huit cent quatre, 
-le Général en chef de l'Armée indigène, accompagné des généraux, chefs de l'armée, convoqués à l'effet de prendre les mesures qui doivent tendre au bonheur du pays :
-Après avoir fait connaître aux généraux assemblés ses véritables intentions d'assurer à jamais aux indigènes d'Haïti un gouvernement stable, objet de sa plus vive sollicitude : ce qu'il a fait à un discours qui tend à faire connaître aux puissances étrangères la résolution de rendre le pays indépendant, et de jouir d'une liberté consacrée par le sang du peuple de cette île ; et, après avoir recueilli les avis, a demandé que chacun des généraux assemblés prononçât le serment de renoncer à jamais à la France, de mourir plutôt que de vivre sous sa domination, et de combattre jusqu'au dernier soupir pour l'indépendance.
+Aujourd'hui premier janvier dix huit cent quatre, le Général en chef de l'Armée indigène, accompagné des généraux, chefs de l'armée, convoqués à l'effet de prendre les mesures qui doivent tendre au bonheur du pays.  
+
+Après avoir fait connaître aux généraux assemblés ses véritables intentions d'assurer à jamais aux indigènes d'Haïti un gouvernement stable, objet de sa plus vive sollicitude : ce qu'il a fait à un discours qui tend à faire connaître aux puissances étrangères la résolution de rendre le pays indépendant, et de jouir d'une liberté consacrée par le sang du peuple de cette île ; et, après avoir recueilli les avis, a demandé que chacun des généraux assemblés prononçât le serment de renoncer à jamais à la France, de mourir plutôt que de vivre sous sa domination, et de combattre jusqu'au dernier soupir pour l'indépendance.  
+
 Les généraux, pénétrés de ces principes sacrés, après avoir donné d'une voix unanime leur adhésion au projet bien manifesté d'indépendance, ont tous juré à la postérité, à l'univers entier, de renoncer à jamais à la France, et de mourir plutôt que de vivre sous sa domination.  
 
-**Dessalines,** général en chef ; 
-**Christophe, Pétion, Clerveaux, Geffrard, Vernet, Gabart,** généraux de division ;  
-
-**P . Romain, E. Gérin, F. Capois, Daut, Jean-Louis François, Férou, Cangé,**  
-
-**L. Bazelais, Magloire Ambroise, J. J. Herne, Toussaint Brave, Yayou,** généraux de brigade ;  
-
-**Bonnet, F. Papalier, Morelly, Chevalier, Marion,** adjudants-généraux ;  
-
-**Magny, Roux** chefs de brigade ;  
-
-**Chareron, B. Loret, Quené, Macajoux, Dupuy, Carbonne, Diaquoi aîné, Raphaël, Malet, Derenoncourt,** officiers de l'armée ;  
-
-**Et Boisrond Tonnerre,** secrétaire  
+#### Signés, 
+Dessalines, *général en chef* ; Christophe, Pétion, Clerveaux, Geffrard, Vernet, Gabart, *généraux de division* ; P . Romain, E. Gérin, F. Capois, Daut, Jean-Louis François, Férou, Cangé, L. Bazelais, Magloire Ambroise, J. J. Herne, Toussaint Brave, Yayou,*généraux de brigade* ; Bonnet, F. Papalier, Morelly, Chevalier, Marion, *adjudants-généraux* ; Magny, Roux *chefs de brigade* ; Chareron, B. Loret, Quené, Macajoux, Dupuy, Carbonne, Diaquoi aîné, Raphaël, Malet, Derenoncourt, *officiers de l'armée* ; et Boisrond Tonnerre, *secrétaire*.  
 
 ***
 
