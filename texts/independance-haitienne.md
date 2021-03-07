@@ -11,9 +11,9 @@ L'[émancipation des esclaves](https://mjp.univ-perp.fr/constit/ht1793.htm)  de 
   
 Bonaparte, à la suite de la paix d'Amiens, décide de  [rétablir l'esclavage](https://mjp.univ-perp.fr/france/1802esclavage.htm)  dans les possessions françaises (loi du 20 mai 1802). Il confie à son beau-frère, le général Leclerc, un corps expéditionnaire de 25.000 hommes, qui doit rétablir l'autorité de la France sur l'île. Cette expédition tourne rapidement au désastre. Le corps expéditionnaire est décimé par les maladies. Leclerc mort, Toussaint Louverture est capturé, mais les troupes françaises, commandées par Rochambeau, sont battues à Vertières, le 18 novembre 1803, par son successeur Jean-Jacques Dessalines. Elles doivent capituler et évacuer l'île en quelques jours.  
 
-Dessalines et les chefs de l'Armée indigène peuvent proclamer, le 1er janvier 1804, l'indépendance de l'île, désignée désormais sous le nom d'Haïti. Les ~pleins pouvoirs~ sont aussitôt attribués à Dessalines, qui  est bientôt  [proclamé empereur](https://mjp.univ-perp.fr/constit/ht1805.htm) .  
+Dessalines et les chefs de l'Armée indigène peuvent proclamer, le 1er janvier 1804, l'indépendance de l'île, désignée désormais sous le nom d'Haïti. Les pleins pouvoirs sont aussitôt attribués à Dessalines, qui est bientôt  [proclamé empereur](https://mjp.univ-perp.fr/constit/ht1805.htm).  
 
-Source : The National Archives Website, http://nationalarchives.gov.uk/ Catalogue Reference:co/137/111.
+Source : [The National Archives Website](http://nationalarchives.gov.uk/) Catalogue Reference:co/137/111
 
 ***
 
