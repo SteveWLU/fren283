@@ -18,8 +18,8 @@ Source : [The National Archives Website](http://nationalarchives.gov.uk/) Catalo
 ***
   
   
-### __Liberté ou la mort__  
-### __Armée indigène__  
+### LIBERTÉ, OU LA MORT.  
+### ARMÉE INDIGÈNE.  
   
   
 #### Gonaïves, le premier janvier 1804, An I de l'Indépendance  
@@ -36,7 +36,6 @@ Dessalines, *général en chef* ; Christophe, Pétion, Clerveaux, Geffrard, Vern
 ***
 
 #### Le général en Chef,  
-
 #### Au Peuple d'Haïti  
 
 Citoyens,
