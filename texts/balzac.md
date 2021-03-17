@@ -21,5 +21,4 @@ Cette pièce est dans tout son lustre au moment où, vers sept heures du matin, 
   
 [...]  
 
-
 Source: [Honoré de Balzac, "Le Père Goriot"](https://fr.wikisource.org/wiki/Le_P%C3%A8re_Goriot/I)

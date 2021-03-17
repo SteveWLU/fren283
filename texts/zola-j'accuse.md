@@ -2,7 +2,6 @@
 title: "J'accuse..."
 author: Émile Zola
 layout: text
-source: [Émile Zola, “J’accuse...”](https://fr.m.wikisource.org/wiki/J’accuse…!)
 ---
 
 #### le 13 janvier 1898  
@@ -98,3 +97,5 @@ J’attends.
 Veuillez agréer, monsieur le Président, l’assurance de mon profond respect.  
 
 #### ÉMILE ZOLA
+
+[Émile Zola, “J’accuse...”](https://fr.m.wikisource.org/wiki/J’accuse…!)
