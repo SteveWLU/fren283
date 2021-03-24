@@ -13,8 +13,7 @@ permalink: about/dates
 	le 23 février - Réflexion 2 (1.5-2 pages)
 	le 4 mars - examen oral midterm
 	le 11 mars - Réflexion 3 (1.5-2 pages)
-	le 23 mars - deuxième présentation
-	le 25 mars - deuxième présentation
+	le 30 mars - deuxième présentation
 	le  2 avril - Réflexion 4 (1.5-2 pages)
 	le 9 avril - examen oral final
 	le 13 avril - Rédaction 1 (4 -5 pages; expansion d’une des quatre réflexions)
